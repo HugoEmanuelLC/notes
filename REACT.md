@@ -5,6 +5,8 @@
 ## Installation
 
 * npx create-react-app .
+* npx create-react-app name-app
+
 * npm run build
 * npm start
 * http://localhost:3000/
@@ -16,6 +18,7 @@ c'est du js classic où on peut rajouter la structure html qui sera convertit pa
 
 - vite 
     * npm create vite@latest ./
+    * npm create vite@latest ./ --template blank 
     * npm i
     * npm run dev
 
